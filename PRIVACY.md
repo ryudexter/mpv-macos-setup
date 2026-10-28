@@ -15,6 +15,12 @@ find a matching subtitle. The subtitle is saved next to the video. OpenSubtitles
 own [privacy policy](https://www.opensubtitles.com/en/privacy) covers what it
 does with requests.
 
+**Your OpenSubtitles account (optional).** If you sign in to OpenSubtitles in
+Settings › Subtitles, for more downloads a day, the app sends your username
+and password to OpenSubtitles.com and nowhere else. They are kept in your
+Mac's keychain until you sign out, and the downloads you make then count
+against your OpenSubtitles account.
+
 **The iPhone remote.** The app lets the MPV Player Remote app on your iPhone
 find and control it over your local network. Nothing goes over the internet:
 the phone and the Mac talk directly, and paired phones are remembered on the Mac.
